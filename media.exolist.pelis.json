@@ -31,6 +31,118 @@
     "name": "♦️ PELÍCULAS 2025",
     "samples": [
 {
+    "name": "Un estupendo chico indio (2025) BluRay Rip [7.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d652f4df7fed01a95eefda5f5236c8d5ed0778ff",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Un estupendo chico indio (2025) BluRay 720pRip [7.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3c9df538d14086e63ffc118503a01b1d5a29c9eb",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "The Ballad of Wallis Island  (2025) BluRay Rip [7.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=48d8c249e2f9f0b44d3c744ac5bfc4ebf17b39d5",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "The Ballad of Wallis Island  (2025) BluRay 720pRip [7.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=1c9bb1ab1720678638e5ef9e1afc15a63f93135d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "The Ballad of Wallis Island  (2025) BluRay 1080Rip [7.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ca863adcbdadf6eb10465425691ea6d3d9b61ebd",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "The Ballad of Wallis Island  (2025) BluRay 4k 2160P [7.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d0cd880efb6bca22dc4e438a347c2f3c11fa7d24",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Baja De Paternidad  (2025) BluRay Rip [6.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=acbdcb2ad9ef700eff28b0851c32da475444f8be",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Baja De Paternidad  (2025) BluRay 720pRip [6.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=f41f030bcd4388380262b84ba579d7b496efec8f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Baja De Paternidad  (2025) BluRay 1080Rip [6.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=afe6a615a5511be13de8eea71859fec2f6d34190",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "On Falling (2025) BluRay Rip [7.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=19a822765da0a47d78ef098bb75015d10ff8f9d4",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "On Falling (2025) BluRay 720pRip [7.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d316d10c8ad177e168efb8086138bf98aef1733f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El Colegio De Los Animales Magicos 3 (2025) BluRay Rip [6.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=050548d449c296d5ac28c20f716bbf1314b22077",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El Colegio De Los Animales Magicos 3 (2025) BluRay 720pRip [6.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=9f786f90b8d0f18bcdae2f0c5caae474e8c046b1",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El Colegio De Los Animales Magicos 3 (2025) BluRay 1080Rip [6.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=cdfb5c1222600a3d48883a57ce5a100ad6ced06c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },       
+  {
     "name": "La primera escuela (2025) BluRay Rip [7.0]",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=af530c3a6406b8d2ce62a7f90cec676e79cc0a90",
     "kid": "",
