@@ -4,7 +4,7 @@
     "samples": [
    
   {
-        "name": "17/01/2026",
+        "name": "19/01/2026",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/",
         "kid": "",
         "key": "",
@@ -30,6 +30,102 @@
 {
     "name": "♦️ PELÍCULAS 2025",
     "samples": [
+  {
+    "name": "Incognito (2025) BluRay Rip [7.7]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=6ebbb7c952e4acd19de60e842ce829719d2012b7",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Incognito (2025) BluRay 720pRip [7.7]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=2ca6573c808584aebd1330e3fb59e8417140ff4d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Incognito (2025) Web dl Hd 1080p  [7.7]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=170241bf85a8640ae13a82f2bd336d3c5e6f1dd5",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Vigilados (2025) BluRay Rip [7.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=85f7d63da55f2e0a3df749f1d822ca9d9b2ea7c9",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Vigilados (2025) BluRay 720pRip [7.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=224407878b9510d70ac8940f8bfdcb0c40940e63",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Vigilados (2025) BluRay 1080Rip [7.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b0ee574b35d521eeb9977e12f3185269126ad5b1",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Vigilados (2025) Web dl Hd 1080p  [7.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=19c55e5cc580e7568caa332eefa4a0442d5d46d7",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El vengador toxico  (2025) BluRay Rip [6.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=829e55be5903bd757cd97b4b1684e78d85457335",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El vengador toxico  (2025) BluRay 720pRip [6.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=6c9f0d3b5a5ce7595099d51fe3f5ca93f5e1aed8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El vengador toxico  (2025) BluRay 1080Rip [6.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=90c6b93f3ceaa0b8187f75486afd0e18b1b74995",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El vengador toxico  (2025) BluRay 4k 2160P [6.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ff1ec460fc9369854cf3e63cf23df6302b4fdb81",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El vengador toxico  (2025) Web dl Hd 1080p  [6.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e52c0cccf12824bd1772cf996176cfb3b58fbea8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },   
   {
     "name": "Sketch Cuidado con lo que dibujas (2025) BluRay Rip [7.1]",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=e0d58a83e3d082b9a2cd5d4b839c72fb1ddc7511",
